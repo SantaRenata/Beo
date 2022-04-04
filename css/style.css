@@ -1,0 +1,17 @@
+.nav ul{
+    list-style-type: none;
+}
+
+.nav ul li{
+    display: inline-block;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    background-color: rgb(128, 148, 240);
+    padding: 2px;
+}
+
+.nav ul li a:hover{
+    background-color: rgb(11, 32, 155);
+}
